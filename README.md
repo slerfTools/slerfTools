@@ -55,8 +55,10 @@ X：    https://twitter.com/BeecapitalDAO
 
 微信：
 WeChat：
+
 ![image](/image/wechat.png)
 
 qq:
+
 ![image](/image/qq.jpeg)
 
