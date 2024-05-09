@@ -1,4 +1,4 @@
-【中文简体】
+[简体中文]()| [English]()
 
 # Solana发币工具
 
@@ -51,13 +51,64 @@
 
 [推特/X](https://twitter.com/SlerfTools)
 
-[邮件](BD@slerf.tools)
+[电子邮箱](BD@slerf.tools)
 
 
 
 ------
 
-【English】
+
+# Solana Create Token Tools
+
+Create token, OpenBook, Burn liquidity, Make airdrop, and Robot market making on Solana with SlerfTools, helping you easily build successful projects.
+
+website: [https://slerf.tools/](https://slerf.tools/en-us/)
+
+## Tokne Manage
+
+[Token Creator](https://slerf.tools/en-us/token-creator/solana)
+
+[Revoke Authority](https://slerf.tools/en-us/revoke-authority/solana)
+
+[Token Mint](https://slerf.tools/en-us/token-mint/solana)
+
+[Token Clone](https://slerf.tools/en-us/token-clone/solana)
+
+[Close Account](https://slerf.tools/en-us/close-account/solana)
+
+[Freeze Account](https://slerf.tools/en-us/freeze-account/solana)
+
+## Liquidity Manage
+
+[Create Openbook Market ID](https://slerf.tools/en-us/openbook-market/solana)
+
+[Liquidity Creator](https://slerf.tools/en-us/liquidity-creator/solana)
+
+[Liquidity Remover](https://slerf.tools/en-us/liquidity-remover/solana)
+
+[Liquidity Burner](https://slerf.tools/en-us/liquidity-burner/solana)
+
+[Create Liquidity & Buy](https://slerf.tools/en-us/liquidity-create-and-buy-token/solana)
+
+[Wallet Creator](https://slerf.tools/en-us/wallet-creator/solana)
+
+[Multi Sender](https://slerf.tools/en-us/multi-sender/solana)
+
+[Multi Collector](https://slerf.tools/en-us/multi-collector/solana)
+
+## Help Center
+
+[Help doc](https://docs.slerf.tools/v/english)
+
+
+## Contact Us
+
+[Telegram](https://t.me/SlerfTools)
+
+[Twitter/X](https://twitter.com/SlerfTools)
+
+[E-mail](BD@slerf.tools)
+
 
 
 
