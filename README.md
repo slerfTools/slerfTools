@@ -66,39 +66,39 @@ website: [https://slerf.tools/](https://slerf.tools/en-us/)
 
 ## Tokne Manage
 
-[Token Creator](https://slerf.tools/en-us/token-creator/solana)
+[Token Creator](https://slerf.tools/en-us/token-creator/solana): Solana create token, Create solana token, Solana token maker
 
-[Revoke Authority](https://slerf.tools/en-us/revoke-authority/solana)
+[Revoke Authority](https://slerf.tools/en-us/revoke-authority/solana): Revoke Freeze Authority,Revoke Mint Authority, Make Token Immutable
 
-[Token Mint](https://slerf.tools/en-us/token-mint/solana)
+[Token Mint](https://slerf.tools/en-us/token-mint/solana): Solana Token Minting, Issue Token, Increase Token Supply
 
-[Token Clone](https://slerf.tools/en-us/token-clone/solana)
+[Token Clone](https://slerf.tools/en-us/token-clone/solana):Solana Token Cloning ,Fork Token Data And Quickly Issue It
 
-[Close Account](https://slerf.tools/en-us/close-account/solana)
+[Close Account](https://slerf.tools/en-us/close-account/solana): Solana Close Token Account, Recovery rent
 
-[Freeze Account](https://slerf.tools/en-us/freeze-account/solana)
+[Freeze Account](https://slerf.tools/en-us/freeze-account/solana): SlerfTools Freeze Accountm Secure Assets Enhance Control
 
 ## Liquidity Manage
 
-[Create Openbook Market ID](https://slerf.tools/en-us/openbook-market/solana)
+[Create Openbook Market ID](https://slerf.tools/en-us/openbook-market/solana): Solana Create Cheap Openbook Market ID only 0.38 sol
 
-[Liquidity Creator](https://slerf.tools/en-us/liquidity-creator/solana)
+[Liquidity Creator](https://slerf.tools/en-us/liquidity-creator/solana): Solana Create Liquidity on Raydium
 
-[Liquidity Remover](https://slerf.tools/en-us/liquidity-remover/solana)
+[Liquidity Remover](https://slerf.tools/en-us/liquidity-remover/solana): Solana Romve Liquidity on Raydium
 
-[Liquidity Burner](https://slerf.tools/en-us/liquidity-burner/solana)
+[Liquidity Burner](https://slerf.tools/en-us/liquidity-burner/solana)： Solana burn LP token
 
-[Create Liquidity & Buy](https://slerf.tools/en-us/liquidity-create-and-buy-token/solana)
+[Create Liquidity & Buy](https://slerf.tools/en-us/liquidity-create-and-buy-token/solana): Solana Create liquidity pool + sniping, Jito Bundle Trades for Edge
 
-[Wallet Creator](https://slerf.tools/en-us/wallet-creator/solana)
+[Wallet Creator](https://slerf.tools/en-us/wallet-creator/solana): Solana Batch Wallet Creation , Free & Safe & Fast
 
-[Multi Sender](https://slerf.tools/en-us/multi-sender/solana)
+[Multi Sender](https://slerf.tools/en-us/multi-sender/solana):  Create Solana Airdrop , Efficiently Process Multiple Transfer, Solana Maker Airdrop
 
-[Multi Collector](https://slerf.tools/en-us/multi-collector/solana)
+[Multi Collector](https://slerf.tools/en-us/multi-collector/solana): Solana Batch Collection , Multi-Account Funds Retrieval
 
 ## Help Center
 
-[Help doc](https://docs.slerf.tools/v/english)
+[Help Doc](https://docs.slerf.tools/v/english)
 
 
 ## Contact Us
