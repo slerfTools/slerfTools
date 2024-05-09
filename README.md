@@ -1,6 +1,6 @@
 【中文简体】
 
-#Solana发币工具
+# Solana发币工具
 
 在Solana上创建代币、创建OpenBook市场ID、燃烧流动性、批量空投以及机器人做市等，SlerfTools 助您轻松打造成功项目。
 
