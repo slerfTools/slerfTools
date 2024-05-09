@@ -1,4 +1,4 @@
-[简体中文]()| [English]()
+[简体中文]()  |  [English](https://github.com/slerfTools/slerfTools/blob/main/README.md/#Solana-Create-Token-Tools)
 
 # Solana发币工具
 
