@@ -92,17 +92,17 @@
 
 ## 捆绑专区
 
-[创建流动性并买入](https://slerf.tools/zh-cn/liquidity-create-and-buy-token/solana): 
+[创建流动性并买入](https://slerf.tools/zh-cn/liquidity-create-and-buy-token/solana): Raydium 捆绑买入，添加流动性的同时多个地址买入，100% 狙击在第一
 
 [Pump开盘并买入](https://slerf.tools/zh-cn/pump-launch-and-buy-token/solana): 使用Jito捆绑包，在发射的同时支持最多 20 个地址的买入
 
-[防夹刷量](https://slerf.tools/zh-cn/anti-sandwich-trades/solana): 
+[防夹刷量](https://slerf.tools/zh-cn/anti-sandwich-trades/solana):  Solana 在同一笔交易里面，进行大额的买入和卖出，增加交易量的同时防止被三明治工具
 
-[多地址捆绑买入](https://slerf.tools/zh-cn/bundled-buy/solana): 
+[多地址捆绑买入](https://slerf.tools/zh-cn/bundled-buy/solana): 借助 jito 捆绑包功能，在同一个区块里面同时多个地址买入代币，快速拉盘
 
-[一键卖出](https://slerf.tools/zh-cn/bundled-sell/solana): 
+[一键卖出](https://slerf.tools/zh-cn/bundled-sell/solana): 借助 jito 捆绑包功能，在同一个区块里面同时多个地址卖出代币，快速砸盘
 
-[卖出并捆绑买入](https://slerf.tools/zh-cn/sell-and-bundled-buy/solana): 
+[卖出并捆绑买入](https://slerf.tools/zh-cn/sell-and-bundled-buy/solana): 借助 jito 捆绑包功能，在一个地址卖出的同时，其它地址执行买入功能，隐秘换仓，防止其它行情工具标记追踪
 
 
 ## Pump专区
@@ -111,25 +111,25 @@
 
 [Pump批量交易](https://slerf.tools/zh-cn/pump-volume-bot/solana): 导入多个 Solana 地址，支持在 Pumpfun 上执行批量买入或者卖出指令
 
-[Pump微量刷单](https://slerf.tools/zh-cn/pump-micro-trade/solana): 
+[Pump微量刷单](https://slerf.tools/zh-cn/pump-micro-trade/solana): 微量刷单，让代币一直在pumpfun首页跳动，吸引更多人来购买代币
 
-[Pump多地址捆绑买入](https://slerf.tools/zh-cn/pump-bundled-buy/solana): 
+[Pump多地址捆绑买入](https://slerf.tools/zh-cn/pump-bundled-buy/solana): 借助 jito 捆绑包功能，在同一个区块里面同时多个地址买入 pumpfun 代币，快速拉盘
 
-[Pump一键卖出](https://slerf.tools/zh-cn/pump-bundled-sell/solana): 
+[Pump一键卖出](https://slerf.tools/zh-cn/pump-bundled-sell/solana): 借助 jito 捆绑包功能，在同一个区块里面同时多个地址卖出 pumpfun 代币，快速砸盘
 
-[Pump新地址买入](https://slerf.tools/zh-cn/pump-maker-buyers/solana): 
+[Pump新地址买入](https://slerf.tools/zh-cn/pump-maker-buyers/solana): 全自动创建新钱包地址，完成买入 Pumpfun 代币后自动转入主钱包并关闭账户。
 
-[Pump防夹刷量](https://slerf.tools/zh-cn/pump-anti-mev-volume-bot/solana): 
+[Pump防夹刷量](https://slerf.tools/zh-cn/pump-anti-mev-volume-bot/solana):  Solana 在同一笔交易里面，进行大额的买入和卖出，增加交易量的同时防止被三明治工具
 
 ## MoonShot专区
 
-[MoonShot批量交易](https://slerf.tools/zh-cn/moonshot-volume-bot/solana): 
+[MoonShot批量交易](https://slerf.tools/zh-cn/moonshot-volume-bot/solana): 导入多个 Solana 地址，支持在 MoonShot 上执行批量买入或者卖出指令
 
-[MoonShot新地址买入](https://slerf.tools/zh-cn/moonshot-maker-buyers/solana): 
+[MoonShot新地址买入](https://slerf.tools/zh-cn/moonshot-maker-buyers/solana): 全自动创建新钱包地址，完成买入 MoonShot 代币后自动转入主钱包并关闭账户。
 
-[MoonShot一键卖出](https://slerf.tools/zh-cn/moonshot-bundled-sell/solana): 
+[MoonShot一键卖出](https://slerf.tools/zh-cn/moonshot-bundled-sell/solana): 借助 jito 捆绑包功能，在同一个区块里面同时多个地址卖出 MoonShot 代币，快速砸盘
 
-[MoonShot防夹刷量](https://slerf.tools/zh-cn/moonshot-anti-mev-volume-bot/solana): 
+[MoonShot防夹刷量](https://slerf.tools/zh-cn/moonshot-anti-mev-volume-bot/solana): Solana 在同一笔交易里面，进行大额的买入和卖出，增加交易量的同时防止被三明治工具
 
 ## Orca专区
 
@@ -208,15 +208,25 @@ website: [https://slerf.tools/](https://slerf.tools/en-us/)
 
 [Wallet Creator](https://slerf.tools/en-us/wallet-creator/solana): Solana Batch Wallet Creation , Free & Safe & Fast
 
-[Multi Sender](https://slerf.tools/en-us/multi-sender/solana):  Create Solana Airdrop , Efficiently Process Multiple Transfer, Solana Maker Airdrop
-
-[Multi Collector](https://slerf.tools/en-us/multi-collector/solana): Solana Batch Collection , Multi-Account Funds Retrieval
-
 [Solana Vanity Address Generator](https://slerf.tools/en-us/vanity-address-generator/solana)：Quickly generate a Solana wallet address with specific numbers or letter combinations, offering personalized and memorable options that enhance the uniqueness of your digital identity.
 
 [Close Account - Recover Solana](https://slerf.tools/en-us/close-account/solana)：Every Token or NFT on Solana requires a certain amount of SOL as account rent at the first acquisition. Destroy any unwanted NFTs or tokens and recover SOL rent through a few simple steps.
 
-## Market-Making-Bot
+[Batch Reclaim Rent](https://slerf.tools/en-us/batch-incinerator/solana): On Solana, each Token or NFT requires paying a certain amount of SOL as account rent upon first acquisition. Through simple steps, batch destroy any unwanted NFTs or tokens and reclaim SOL rent.
+
+
+## Multisender
+
+[One to Many](https://slerf.tools/en-us/multi-sender/solana):  Create Solana Airdrop , Efficiently Process Multiple Transfer, Solana Maker Airdrop, Bulk Sneder ,Solana Airdrop Tool, SPL Token Mutilsender
+
+[Many to One](https://slerf.tools/en-us/multi-collector/solana): Solana Batch Collection , Multi-Account Funds Retrieval
+
+[Many to Many](https://slerf.tools/en-us/multi-to-multi-transfer/solana): Batch execute multi-to-multi transfers. 
+
+[SOL Ralay Transfer](https://slerf.tools/en-us/relay-transfer/solana): The relay transfer function aims to provide users with a more concealed and secure way to transfer funds. Through multiple relays, users can effectively hide the transfer path, thus enhancing the privacy and security of fund transfers.
+
+
+## Market-Making-Tools
 
 [SlerfTools Swap](https://slerf.tools/en-us/swap/solana)：Integrate with Raydium Swap and our exclusive optimization algorithm. Choose your preferred fees and tips to enhance transaction speed without the impacts of Solana network congestion or Raydium delays.
 
