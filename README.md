@@ -5,7 +5,8 @@
 在Solana上创建代币、创建OpenBook市场ID、燃烧流动性、批量空投以及机器人做市等，SlerfTools 助您轻松打造成功项目。
 
 官网 [https://slerf.tools/](https://slerf.tools/zh-cn)
-![image](/image/homepage_zh.jpeg)
+
+![image](/image/homepage_zh.png)
 
 ## 代币管理
 
@@ -159,7 +160,7 @@ Create token, OpenBook, Burn liquidity, Make airdrop, and Robot market making on
 
 website: [https://slerf.tools/](https://slerf.tools/en-us/)
 
-![image](/image/homepage_en.jpeg)
+![image](/image/homepage_en.png)
 
 ## Tokne Manage
 
