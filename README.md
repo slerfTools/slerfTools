@@ -92,50 +92,52 @@
 
 ## 捆绑专区
 
-[创建流动性并买入]
+[创建流动性并买入](https://slerf.tools/zh-cn/liquidity-create-and-buy-token/solana): 
 
-[Pump开盘并买入]
+[Pump开盘并买入](https://slerf.tools/zh-cn/pump-launch-and-buy-token/solana): 
 
-[防夹刷量]
+[防夹刷量](https://slerf.tools/zh-cn/anti-sandwich-trades/solana): 
 
-[多地址捆绑买入]
+[多地址捆绑买入](https://slerf.tools/zh-cn/bundled-buy/solana): 
 
-[一键卖出]
+[一键卖出](https://slerf.tools/zh-cn/bundled-sell/solana): 
 
-[卖出并捆绑买入]
+[卖出并捆绑买入](https://slerf.tools/zh-cn/sell-and-bundled-buy/solana): 
 
 
 ## Pump专区
 
-[Pump开盘并买入]
+[Pump开盘并买入](https://slerf.tools/zh-cn/pump-launch-and-buy-token/solana): 
 
-[Pump批量交易]
+[Pump批量交易](https://slerf.tools/zh-cn/pump-volume-bot/solana): 
 
-[Pump微量刷单]
+[Pump微量刷单](https://slerf.tools/zh-cn/pump-micro-trade/solana): 
 
-[Pump多地址捆绑买入]
+[Pump多地址捆绑买入](https://slerf.tools/zh-cn/pump-bundled-buy/solana): 
 
-[Pump一键卖出]
+[Pump一键卖出](https://slerf.tools/zh-cn/pump-bundled-sell/solana): 
 
-[Pump新地址买入]
+[Pump新地址买入](https://slerf.tools/zh-cn/pump-maker-buyers/solana): 
 
-[Pump防夹刷量]
+[Pump防夹刷量](https://slerf.tools/zh-cn/pump-anti-mev-volume-bot/solana): 
 
 ## MoonShot专区
 
-[MoonShot批量交易]
+[MoonShot批量交易](https://slerf.tools/zh-cn/moonshot-volume-bot/solana): 
 
-[MoonShot新地址买入]
+[MoonShot新地址买入](https://slerf.tools/zh-cn/moonshot-maker-buyers/solana): 
 
-[MoonShot一键卖出]
+[MoonShot一键卖出](https://slerf.tools/zh-cn/moonshot-bundled-sell/solana): 
 
-[MoonShot防夹刷量]
+[MoonShot防夹刷量](https://slerf.tools/zh-cn/moonshot-anti-mev-volume-bot/solana): 
 
 ## Orca专区
 
-[Orca防夹刷量]
+[Orca防夹刷量](https://slerf.tools/zh-cn/orca-anti-mev-volume-bot/solana): 
 
 ## 市值管理 
+
+[市值管理](https://bot.slerf.tools/zh-cn/market-making/solana): Solana 做市工具，支持目标拉升，目标下单，刷量机器等各种策略的高效市值管理机器人
 
 ## 帮助文档
 
