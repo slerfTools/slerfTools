@@ -11,17 +11,28 @@
 
 [代币创建](https://slerf.tools/zh-cn/token-creator/solana): Solana一键发币，Solana发币
 
+[税费代币创建](https://slerf.tools/zh-cn/tax-token-creator/solana): Solana 创建 Token2022 代币
+
+[靓号代币](https://slerf.tools/zh-cn/token-vanity-creator/solana): Solana 自定义地址前缀和后缀
+
 [放弃权限](https://slerf.tools/zh-cn/revoke-authority/solana)：Solana代币丢权限，放弃资料修改权、冻结权限、铸造代币权限
 
 [代币增发](https://slerf.tools/zh-cn/token-mint/solana)：Solana增发代币，Mint代币
 
 [代币克隆](https://slerf.tools/zh-cn/token-clone/solana)：Solana一键克隆代币
 
-[账号回收](https://slerf.tools/zh-cn/close-account/solana)：Solana焚化炉，回收账户租金，关闭账户
+[代币更新](https://slerf.tools/zh-cn/token-update/solana): Solana 更新代币头像，社交信息等元数据资料
 
 [冻结账户](https://slerf.tools/zh-cn/freeze-account/solana)：Solana冻结代币账户，黑名单，拉黑地址
 
 [创建靓号代币](https://slerf.tools/zh-cn/token-vanity-creator/solana): 轻松自定义您的 Solana 代币！选择独特且吸引人的数字组合，让您的代币在众多项目中脱颖而出！
+
+[自动冻结账户](https://slerf.tools/zh-cn/auto-freeze-account/solana): Solana “黑名单”功能升级版，根据自定义参数配置，自动禁止某些帐户执行如发送交易等特定操作，有助于防止恶意机器人行为对资产造成损害
+
+[燃烧代币](https://slerf.tools/zh-cn/token-burner/solana): Solana 代币燃烧，代币销毁，打入黑洞，永久移出流动性
+
+[解冻账户](https://slerf.tools/zh-cn/unfreeze-account/solana): Solana 无需代码实现账户权限管理，此功能可恢复特定账户的关键操作，有效解除冻结状态，确保对市场策略的灵活控制和资产的正常运作。
+
 
 ## 流动性管理
 
@@ -33,7 +44,7 @@
 
 [燃烧流动性](https://slerf.tools/zh-cn/liquidity-burner/solana)：Solana烧池子，永久放弃权限，锁池子
 
-[创建流动性并买入](https://slerf.tools/zh-cn/liquidity-create-and-buy-token/solana)：Solana 利用 jito 绑定包、jito捆绑包功能实现加池子和买入在同一个区块，前三个狙击位 100% 买在最前面。
+[创建流动性并买入](https://slerf.tools/zh-cn/liquidity-create-and-buy-token/solana)：Solana 利用 jito 绑定包、jito捆绑包功能实现加池子和买入在同一个区块，前四个狙击位 100% 买在最前面。
 
 ## 钱包管理
 
@@ -47,13 +58,83 @@
 
 [关闭账户 - 回收租金](https://slerf.tools/zh-cn/close-account/solana)：每个 Solana 代币或 NFT 在首次获取时都需要一定数量的 SOL 作为账户租金。销毁任何不需要的 NFT 或代币，并通过几个简单的步骤回收 SOL 租金
 
-## 做市机器人
+[账号回收](https://slerf.tools/zh-cn/close-account/solana)：Solana焚化炉，回收账户租金，关闭账户
+
+[批量回收租金](https://slerf.tools/zh-cn/batch-incinerator/solana) ： Solana 多个地址回收租金
+
+## 批量转账
+
+[批量发送](https://slerf.tools/zh-cn/multi-sender/solana) : Solana 、 代币批量转账，一个地址转入多个地址
+
+[批量归集](https://slerf.tools/zh-cn/multi-collector/solana): Solana 、 代币批量归集，多个地址转入一个地址
+
+[多转多](https://slerf.tools/zh-cn/multi-to-multi-transfer/solana) ： Solana 、 代币多个地址转向多个地址
+
+[中转转账](https://slerf.tools/zh-cn/relay-transfer/solana) : 多跳转账，防止气泡图标记
+
+## 做市工具
 
 [SlerfTools Swap](https://slerf.tools/zh-cn/swap/solana)：集成 Raydium Swap 和我们独家的优化算法。选择您偏好的费用和提示，以提高交易速度，不受 Solana 网络拥堵或 Raydium 延迟的影响。
 
-## 税费代币(Token2022)
+[批量交易](https://slerf.tools/zh-cn/multi-swap/solana): 导入多个 Solana 地址，支持在 Radyium、Pumpfun、MoonShot 上执行批量买入或者卖出指令
 
-[Token2022 标准的代币创建](https://slerf.tools/zh-cn/tax-token-creator/solana)：无需编码创建符合 Token2022 标准的 Solana 代币。自定义交易费用以满足各种项目需求，并享受更灵活的市场策略。
+[多地址捆绑买入](https://slerf.tools/zh-cn/bundled-buy/solana): 借助 jito 捆绑包功能，在同一个区块里面同时多个地址买入代币，快速拉盘
+
+[一键卖出](https://slerf.tools/zh-cn/bundled-sell/solana): 借助 jito 捆绑包功能，在同一个区块里面同时多个地址卖出代币，快速砸盘
+
+[卖出并捆绑买入](https://slerf.tools/zh-cn/sell-and-bundled-buy/solana): 借助 jito 捆绑包功能，在一个地址卖出的同时，其它地址执行买入功能，隐秘换仓，防止其它行情工具标记追踪
+
+[防夹刷量](https://slerf.tools/zh-cn/anti-sandwich-trades/solana): Solana 在同一笔交易里面，进行大额的买入和卖出，增加交易量的同时防止被三明治工具
+
+[新地址买入](https://slerf.tools/zh-cn/maker-buyers/solana): 全自动创建新钱包地址，完成买入后自动转入主钱包并关闭账户。以极低成本提升指定币种的独立钱包购买数量，帮助您的项目数据在市场中脱颖而出。
+
+
+## 捆绑专区
+
+[创建流动性并买入]
+
+[Pump开盘并买入]
+
+[防夹刷量]
+
+[多地址捆绑买入]
+
+[一键卖出]
+
+[卖出并捆绑买入]
+
+
+## Pump专区
+
+[Pump开盘并买入]
+
+[Pump批量交易]
+
+[Pump微量刷单]
+
+[Pump多地址捆绑买入]
+
+[Pump一键卖出]
+
+[Pump新地址买入]
+
+[Pump防夹刷量]
+
+## MoonShot专区
+
+[MoonShot批量交易]
+
+[MoonShot新地址买入]
+
+[MoonShot一键卖出]
+
+[MoonShot防夹刷量]
+
+## Orca专区
+
+[Orca防夹刷量]
+
+## 市值管理 
 
 ## 帮助文档
 
