@@ -94,7 +94,7 @@
 
 [创建流动性并买入](https://slerf.tools/zh-cn/liquidity-create-and-buy-token/solana): 
 
-[Pump开盘并买入](https://slerf.tools/zh-cn/pump-launch-and-buy-token/solana): 
+[Pump开盘并买入](https://slerf.tools/zh-cn/pump-launch-and-buy-token/solana): 使用Jito捆绑包，在发射的同时支持最多 20 个地址的买入
 
 [防夹刷量](https://slerf.tools/zh-cn/anti-sandwich-trades/solana): 
 
@@ -107,9 +107,9 @@
 
 ## Pump专区
 
-[Pump开盘并买入](https://slerf.tools/zh-cn/pump-launch-and-buy-token/solana): 
+[Pump开盘并买入](https://slerf.tools/zh-cn/pump-launch-and-buy-token/solana): 使用Jito捆绑包，在发射的同时支持最多 20 个地址的买入
 
-[Pump批量交易](https://slerf.tools/zh-cn/pump-volume-bot/solana): 
+[Pump批量交易](https://slerf.tools/zh-cn/pump-volume-bot/solana): 导入多个 Solana 地址，支持在 Pumpfun 上执行批量买入或者卖出指令
 
 [Pump微量刷单](https://slerf.tools/zh-cn/pump-micro-trade/solana): 
 
@@ -133,7 +133,7 @@
 
 ## Orca专区
 
-[Orca防夹刷量](https://slerf.tools/zh-cn/orca-anti-mev-volume-bot/solana): 
+[Orca防夹刷量](https://slerf.tools/zh-cn/orca-anti-mev-volume-bot/solana): Orca 在同一笔交易里面，进行大额的买入和卖出，增加交易量的同时防止被三明治工具
 
 ## 市值管理 
 
@@ -168,9 +168,17 @@ website: [https://slerf.tools/](https://slerf.tools/en-us/)
 
 [Token Creator](https://slerf.tools/en-us/token-creator/solana): Solana create token, Create solana token, Solana token maker
 
+[Tax Token Creation](https://slerf.tools/en-us/tax-token-creator/solana): Token2022 Token Creation, Solana Tax token creator
+
+[Token Vanity Creator](https://slerf.tools/en-us/token-vanity-creator/solana): Easily customize your Solana token address! 
+
 [Revoke Authority](https://slerf.tools/en-us/revoke-authority/solana): Revoke Freeze Authority,Revoke Mint Authority, Make Token Immutable
 
 [Token Mint](https://slerf.tools/en-us/token-mint/solana): Solana Token Minting, Issue Token, Increase Token Supply
+
+[Token Update](https://slerf.tools/en-us/token-update/solana): Token metadata update
+
+[Revoke Permission](https://slerf.tools/en-us/revoke-authority/solana): Token Information Update Authority, Revoke Freeze Authority, Revoke Mint Authority
 
 [Token Clone](https://slerf.tools/en-us/token-clone/solana):Solana Token Cloning ,Fork Token Data And Quickly Issue It
 
@@ -178,7 +186,11 @@ website: [https://slerf.tools/](https://slerf.tools/en-us/)
 
 [Freeze Account](https://slerf.tools/en-us/freeze-account/solana): SlerfTools Freeze Accountm Secure Assets Enhance Control
 
-[Vanity Token Creation](https://slerf.tools/en-us/token-vanity-creator/solana): Easily customize your Solana token! Choose a unique and attractive numeric combination to make your token stand out and shine among numerous projects!
+[Auto Freeze Account](https://slerf.tools/en-us/auto-freeze-account/solana): Enhanced 'blacklist' function
+
+[Burn Token](https://slerf.tools/en-us/token-burner/solana): Burn SPL Token
+
+[Unfreeze Account](https://slerf.tools/en-us/unfreeze-account/solana): An upgraded version of the 'Blacklist' function.
 
 ## Liquidity Manage
 
