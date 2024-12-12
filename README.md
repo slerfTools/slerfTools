@@ -228,11 +228,69 @@ website: [https://slerf.tools/](https://slerf.tools/en-us/)
 
 ## Market-Making-Tools
 
-[SlerfTools Swap](https://slerf.tools/en-us/swap/solana)：Integrate with Raydium Swap and our exclusive optimization algorithm. Choose your preferred fees and tips to enhance transaction speed without the impacts of Solana network congestion or Raydium delays.
+[Solana Swap](https://slerf.tools/en-us/swap/solana)：Integrate with Raydium Swap and our exclusive optimization algorithm. Choose your preferred fees and tips to enhance transaction speed without the impacts of Solana network congestion or Raydium delays.
 
-## Tax Token(Token2022)
+[Mutil Swap](https://slerf.tools/en-us/multi-swap/solana): Import multiple Solana addresses to execute batch buy or sell orders on Raydium, Pumpfun, or MoonShot.
 
-[Token2022 Token Creation](https://slerf.tools/en-us/tax-token-creator/solana)：Create Solana tokens compliant with the Token2022 standard without coding. Customize transaction fees to meet diverse project needs and enjoy more flexible market strategies.
+[Bundled Buy](https://slerf.tools/en-us/bundled-buy/solana): With the Jito bundling feature, multiple addresses can buy tokens simultaneously within the same block for a quick pump.
+
+[Bundled Sell](https://slerf.tools/en-us/bundled-sell/solana): With the Jito bundling feature, multiple addresses can sell tokens simultaneously within the same block for a quick dump.
+
+[Sell and Bundled Buy](https://slerf.tools/en-us/sell-and-bundled-buy/solana): With the Jito bundling feature, while one address is selling, other addresses can execute buy orders simultaneously, enabling stealth repositioning and preventing tracking by other market tools.
+
+[Anti-MEV Volume Bot](https://slerf.tools/en-us/anti-sandwich-trades/solana): On Solana, large buy and sell orders can be executed within the same transaction, increasing trading volume while preventing sandwich attacks.
+
+[Maker Buyers](https://slerf.tools/en-us/maker-buyers/solana): Automatically create new wallet addresses, complete the buy transaction, transfer to the main wallet, and close the account. Boost the number of independent wallet purchases of designated tokens at a very low cost, helping your project's data stand out in the market.
+
+
+## Bundled Zone
+
+[Create Liquidity & Buy]
+
+[Pump Launch and Buy](https://slerf.tools/en-us/pump-launch-and-buy-token/solana): Using Jito bundles, up to 20 addresses can execute buy orders simultaneously during the launch.
+
+[Anti-MEV Volume Bot]
+
+[Bundled Buy]
+
+[Bundled Sell]
+
+[Sell and Bundled Buy]
+
+## Pump Zone
+
+[Pump Launch and Buy]
+
+[Pump Volume Bot]
+
+[Pump Micro Trading]
+
+[Pump Bundled Buy]
+
+[Pump Bundled Sell]
+
+[Pump Maker Buyers]
+
+[Pump Anti-MEV Volume Bot]
+
+## MoonShot Zone
+
+[MoonShot Multi Swap]
+
+[MoonShot Maker Buyers]
+
+[MoonShot Bundled Sell]
+
+[MoonShot Anti-MEV Volume Bot]
+
+## Orca Zone
+
+[Orca Anti-MEV Volume Bot]
+
+## Market Making
+
+[Market Making Bot](https://bot.slerf.tools/en-us/market-making/solana): Solana market-making tool: an efficient market cap management bot that supports strategies such as targeted pumping, targeted orders, and volume-boosting bots.
+
 
 ## Help Center
 
